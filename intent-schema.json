@@ -1,0 +1,15 @@
+{
+	"intents" : [{
+		"intent" : "HighTideTime",
+		"slots" : [{
+			"name" : "Location",
+			"type" : "AMAZON.EUROPE_CITY"
+		}]
+	},{
+		"intent" : "LowTideTime",
+		"slots" : [{
+			"name" : "Location",
+			"type" : "AMAZON.EUROPE_CITY"
+		}]
+	}]
+}
